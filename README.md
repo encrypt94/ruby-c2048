@@ -4,17 +4,13 @@ Simple, quit buggy, [c2048](https://github.com/helgefmi/c2048) AI ffi binding fo
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Get the repository:
 
-    gem 'c2048'
+    $ git clone --recursive git://github.com/encrypt94/ruby-c2048.git
 
 And then execute:
 
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install c2048
+    $ rake install
 
 ## Usage
 
