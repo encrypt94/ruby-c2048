@@ -1,0 +1,3 @@
+[submodule "ext/c2048"]
+	path = ext/c2048
+	url = git://github.com/helgefmi/c2048.git
